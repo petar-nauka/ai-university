@@ -69,6 +69,12 @@ The AI searches the web while it builds the course. Do not put personal details 
 
 This is a trial version (2026-11-16). Tell us in [Issues](../../issues) what confused you and where the AI had to ask something the instructions do not cover.
 
+## European Researchers' Night
+
+Made for the European Researchers' Night 2026–2027 ([night.nauka.bg](https://night.nauka.bg/)). The initiative is carried out through the project K-TRIO – Researchers in the Knowledge Triangle (No. 101305404), funded by the European Union under the Horizon Europe programme, Marie Skłodowska-Curie Actions.
+
+*Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency (REA). Neither the European Union nor the granting authority can be held responsible for them.*
+
 ## License
 
 MIT, see [LICENSE](LICENSE). Made by Petar Teodosiev, [БГ Наука](https://nauka.bg).
