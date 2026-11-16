@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI University"
+  short_description: "Build a full study course from a topic"
+  default_prompt: "Use $ai-university to build a study course on a topic I name."
